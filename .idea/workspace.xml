@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75144d49-b9b3-4a1a-996d-0cf990074a93" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMXol3FNVVUEE0pSLbcvXbYUlH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.les_7_task_1 (2)">
+    <configuration name="les_7_task_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cource_Python_Geek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa9728.18866" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa9728.18866/les_7_task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_7_task_1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cource_Python_Geek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa15700.40151" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa15700.40151/les_7_task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_7_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cource_Python_Geek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lesson_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lesson_7/les_7_task_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_7_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cource_Python_Geek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lesson_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lesson_7/les_7_task_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="les_7_task_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cource_Python_Geek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Lesson_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Lesson_7/les_7_task_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.les_7_task_1 (2)" />
+        <item itemvalue="Python.les_7_task_1 (1)" />
+        <item itemvalue="Python.les_7_task_1" />
+        <item itemvalue="Python.les_7_task_3" />
+        <item itemvalue="Python.les_7_task_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75144d49-b9b3-4a1a-996d-0cf990074a93" name="Default Changelist" comment="" />
+      <created>1584650114156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584650114156</updated>
+      <workItem from="1584650117596" duration="56285000" />
+      <workItem from="1584980009738" duration="1200000" />
+      <workItem from="1585152575450" duration="13931000" />
+      <workItem from="1585237549122" duration="3361000" />
+      <workItem from="1585241084675" duration="2873000" />
+      <workItem from="1585320701040" duration="12000" />
+      <workItem from="1585556593695" duration="18557000" />
+      <workItem from="1585643530686" duration="18710000" />
+      <workItem from="1585730470647" duration="10166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_7_task_2.coverage" NAME="les_7_task_2 Coverage Results" MODIFIED="1585755002404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_7" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$task_2_code.coverage" NAME="task#2 code Coverage Results" MODIFIED="1584715221222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa12588.1576" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_ex2.coverage" NAME="les2_ex2 Coverage Results" MODIFIED="1584808052759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa6276.31419" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_5_task_1.coverage" NAME="les_5_task_1 Coverage Results" MODIFIED="1585575425260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_5" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les5_task2.coverage" NAME="les5_task2 Coverage Results" MODIFIED="1585575827112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa6228.14706" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_9.coverage" NAME="t2_9 Coverage Results" MODIFIED="1584807587726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.36954" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_9.coverage" NAME="les_3_task_9 Coverage Results" MODIFIED="1584876503501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les5_task2__1_.coverage" NAME="les5_task2 (1) Coverage Results" MODIFIED="1585579027706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14708.35188" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_1.coverage" NAME="les_2_task_1 Coverage Results" MODIFIED="1584735517893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_3.coverage" NAME="t2_3 Coverage Results" MODIFIED="1584806804666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.11046" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_6.coverage" NAME="t2_6 Coverage Results" MODIFIED="1584807370075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.14472" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_6_ver_1.coverage" NAME="les_6_ver_1 Coverage Results" MODIFIED="1585685032616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_6" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_task8.coverage" NAME="les2_task8 Coverage Results" MODIFIED="1584806161750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa4904.46944" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_4_task_1_pr_1_vers_2.coverage" NAME="les_4_task_1_pr_1_vers_2 Coverage Results" MODIFIED="1585217497194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_4" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_task3.coverage" NAME="les2_task3 Coverage Results" MODIFIED="1584805659181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa4904.47339" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$less_3_task_3.coverage" NAME="less_3_task_3 Coverage Results" MODIFIED="1584882012883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa15988.23540" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_1_task_4.coverage" NAME="les_1_task_4 Coverage Results" MODIFIED="1584708937596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$Task7.coverage" NAME="Task7 Coverage Results" MODIFIED="1584715887219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa9308.15744" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_6.coverage" NAME="les_2_task_6 Coverage Results" MODIFIED="1584794527931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_7_task_1__2_.coverage" NAME="les_7_task_1 (2) Coverage Results" MODIFIED="1585758078167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa15700.40151" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_5.coverage" NAME="t2_5 Coverage Results" MODIFIED="1584807366016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.49606" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$2.coverage" NAME="2 Coverage Results" MODIFIED="1585648789592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_4_task_4.coverage" NAME="les_4_task_4 Coverage Results" MODIFIED="1585243872588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa5396.16431" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_ex3.coverage" NAME="les2_ex3 Coverage Results" MODIFIED="1584808133089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa6276.40218" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_8.coverage" NAME="les_3_task_8 Coverage Results" MODIFIED="1584876509815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$test.coverage" NAME="test Coverage Results" MODIFIED="1585224752310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_4" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_5_task_2.coverage" NAME="les_5_task_2 Coverage Results" MODIFIED="1585576252708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_5" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_7.coverage" NAME="les_2_task_7 Coverage Results" MODIFIED="1584795752193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_3.coverage" NAME="les_3_task_3 Coverage Results" MODIFIED="1584882038293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_4_task_1_pr_1_vers_3.coverage" NAME="les_4_task_1_pr_1_vers_3 Coverage Results" MODIFIED="1585220012409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_4" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_1_task_5.coverage" NAME="les_1_task_5 Coverage Results" MODIFIED="1584712254148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_task1.coverage" NAME="les2_task1 Coverage Results" MODIFIED="1584805506852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa4904.26392" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_task4.coverage" NAME="les2_task4 Coverage Results" MODIFIED="1584805782381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa4904.1240" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$less_3_task_2.coverage" NAME="less_3_task_2 Coverage Results" MODIFIED="1584885457552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa15988.14863" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$less_3_task_8.coverage" NAME="less_3_task_8 Coverage Results" MODIFIED="1584882553399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa15988.35074" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_2.coverage" NAME="les_2_task_2 Coverage Results" MODIFIED="1584778355601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$Task_2_Eratosfen.coverage" NAME="Task_2_Eratosfen Coverage Results" MODIFIED="1585238707194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_4" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$task.coverage" NAME="task Coverage Results" MODIFIED="1585686728322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa9964.1589" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$Task_2_Ordinary.coverage" NAME="Task_2_Ordinary Coverage Results" MODIFIED="1585241571481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_4" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_1_task_3.coverage" NAME="les_1_task_3 Coverage Results" MODIFIED="1584708002727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les5_task1__1_.coverage" NAME="les5_task1 (1) Coverage Results" MODIFIED="1585578967944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14708.28750" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_7_task_1__1_.coverage" NAME="les_7_task_1 (1) Coverage Results" MODIFIED="1585757370343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa9728.18866" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_4.coverage" NAME="t2_4 Coverage Results" MODIFIED="1584807001867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.17975" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_7.coverage" NAME="t2_7 Coverage Results" MODIFIED="1584807433364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.23964" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_4.coverage" NAME="les_3_task_4 Coverage Results" MODIFIED="1584876628554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_8.coverage" NAME="les_2_task_8 Coverage Results" MODIFIED="1584797265300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_5.coverage" NAME="les_2_task_5 Coverage Results" MODIFIED="1584794440732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_1.coverage" NAME="t2_1 Coverage Results" MODIFIED="1584806535512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.28911" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_1_task_6.coverage" NAME="les_1_task_6 Coverage Results" MODIFIED="1584713081241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_7.coverage" NAME="les_3_task_7 Coverage Results" MODIFIED="1584876546899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$1.coverage" NAME="1 Coverage Results" MODIFIED="1585754132535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_2.coverage" NAME="les_3_task_2 Coverage Results" MODIFIED="1584882738955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les5_task1.coverage" NAME="les5_task1 Coverage Results" MODIFIED="1585575769530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa6228.8587" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_7_task_1.coverage" NAME="les_7_task_1 Coverage Results" MODIFIED="1585757314665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_7" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_1_task_1.coverage" NAME="les_1_task_1 Coverage Results" MODIFIED="1584701554856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_1_task_7.coverage" NAME="les_1_task_7 Coverage Results" MODIFIED="1584714340887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_3.coverage" NAME="les_2_task_3 Coverage Results" MODIFIED="1584785255057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_5.coverage" NAME="les_3_task_5 Coverage Results" MODIFIED="1584881876720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_task6.coverage" NAME="les2_task6 Coverage Results" MODIFIED="1584805891004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa4904.14415" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$ss.coverage" NAME="ss Coverage Results" MODIFIED="1585580182063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_task2.coverage" NAME="les2_task2 Coverage Results" MODIFIED="1584805613376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa4904.39890" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_2.coverage" NAME="t2_2 Coverage Results" MODIFIED="1584806720327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.40138" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_6_ver_2.coverage" NAME="les_6_ver_2 Coverage Results" MODIFIED="1585685038261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_6" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_9.coverage" NAME="les_2_task_9 Coverage Results" MODIFIED="1584798388858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_7_task_3.coverage" NAME="les_7_task_3 Coverage Results" MODIFIED="1585755494398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_7" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_1.coverage" NAME="les_3_task_1 Coverage Results" MODIFIED="1584884811863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_5_task_1__1_.coverage" NAME="les_5_task_1 (1) Coverage Results" MODIFIED="1585578526625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa13540.32983" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les2_ex1.coverage" NAME="les2_ex1 Coverage Results" MODIFIED="1584807962951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa6276.14468" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_1_task_2.coverage" NAME="les_1_task_2 Coverage Results" MODIFIED="1584705439069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_5_task_2__1_.coverage" NAME="les_5_task_2 (1) Coverage Results" MODIFIED="1585578796619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa13540.41736" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$less_3_task_4.coverage" NAME="less_3_task_4 Coverage Results" MODIFIED="1584882549671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa15988.41997" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_2_task_4.coverage" NAME="les_2_task_4 Coverage Results" MODIFIED="1584951616665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_2" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_1_task_8.coverage" NAME="les_1_task_8 Coverage Results" MODIFIED="1584715205506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_6_ver_3.coverage" NAME="les_6_ver_3 Coverage Results" MODIFIED="1585685042535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Lesson_6" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$t2_8.coverage" NAME="t2_8 Coverage Results" MODIFIED="1584807494796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa14784.29000" />
+    <SUITE FILE_PATH="coverage/Cource_Python_Geek$les_3_task_6.coverage" NAME="les_3_task_6 Coverage Results" MODIFIED="1584876551526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>
