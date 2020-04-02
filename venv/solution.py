@@ -1,14 +1,23 @@
-import sys
-import math
-
-
-a = int(sys.argv[1])
-b = int(sys.argv[2])
-c = int(sys.argv[3])
-
-b /= a
-c /= a
-a /= a
-
-print(f'{int(-b/2 + math.sqrt((b/2)**2-c))}')
-print(f'{int(-b/2 - math.sqrt((b/2)**2-c))}')
+while True:
+    # input
+    try:
+        n = int(input('Введите количество друзей: '))
+    except ValueError:
+        print('Ошибка ввода!')
+        continue
+    graph = []
+    handshakes = 0
+    # graph initialize and count
+    for i in range(n):
+        friend = [i + 1 for i in range(n)]
+        friend[i] = 0
+        graph.append(friend)
+    print('Граф: ', sep="/n")
+    print(graph, sep="/n")
+    for i, friend in enumerate(graph):
+        for handshake in friend:
+            if handshake != 0:
+                handshakes += 1
+                graph[handshake - 1][i] = 0
+    print(f'Количество рукопожатий: {handshakes}')
+    break
