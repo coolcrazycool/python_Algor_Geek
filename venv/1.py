@@ -1,54 +1,35 @@
-
-"""3. Написать программу, которая обходит не взвешенный ориентированный граф без петель,
-в котором все вершины связаны, по алгоритму поиска в глубину (Depth-First Search).
-Примечания:
-a. граф должен храниться в виде списка смежности;
-b. генерация графа выполняется в отдельной функции, которая принимает на вход число вершин."""
-
-import random as rd
-
-def create_graph(nodes):
-    graph = {}
-    for i in range(nodes):
-        graph[i] = {j for j in range(nodes) if i < j}
-    return graph
+'''
+2. Закодируйте любую строку по алгоритму Хаффмана.
+'''
+from heapq import heappush, heappop, heapify
+from collections import Counter
 
 
-def create_graph_2(nodes):
-    graph = {}
-    for i in range(nodes):
-        graph[i] = set()
-        for _ in range(nodes):
-            nd = rd.randint(0, nodes-1)
-            if nd != i:
-                graph[i].add(nd)
-    num = rd.randint(0, nodes-1)
-    for j in range(num):
-        x = graph[rd.randint(0, nodes-1)]
-        if len(x) != 0:
-            y = list(x)[rd.randint(0, len(x)-1)]
-            graph[y].clear()
-    return graph
+def encode(symb2freq):
+    heap = [[wt, [sym, ""]] for sym, wt in symb2freq.items()]
+    heapify(heap)
+    while len(heap) > 1:
+        lo = heappop(heap)
+        hi = heappop(heap)
+        for pair in lo[1:]:
+            pair[1] = '0' + pair[1]
+        for pair in hi[1:]:
+            pair[1] = '1' + pair[1]
+        heappush(heap, [lo[0] + hi[0]] + lo[1:] + hi[1:])
+    return sorted(heappop(heap)[1:], key=lambda p: (len(p[-1]), p))
 
-
-def dfs(graph, start):
-    visited, stack = set(), [start]
-    while stack:
-        node = stack.pop()
-        if node not in visited:
-            visited.add(node)  # список посещённых вершин
-            stack.extend(graph[node] - visited)  # добавляем к списку вершин новые найденные вершины
-    return visited
-
-
-n = int(input('Введите число вершин: '))
-new_graph = create_graph_2(n)
-print(f'Граф: {new_graph}')
-v = int(input('Введите вершину от которой начать обход: '))
-print(dfs(new_graph, v))
-# все вершины
-all_path = []
-for v in range(len(new_graph)):
-    all_path.append(dfs(create_graph(n), v))
-print('Простой граф', create_graph(n))
-print(*all_path, sep='\n')
+if __name__ == "__main__":
+    while True:
+        s = input('Введите строку: ')
+        if len(s) == 0:
+            print('Строка не может быть пустой!')
+            continue
+        symb2freq = Counter(s)
+        huff = encode(symb2freq)
+        print("Symbol\tWeight\tHuffman Code")
+        for p in huff:
+            print(f'{p[0]:>5}', end=' ')
+            print(f'{symb2freq[p[0]]:>7}', end=' ')
+            print(f'{p[1]:>14}', end=' ')
+            print()
+        break
